@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>X on Lishan AZ</title>
+    <link>http://lishanaz.com/tags/x/</link>
+    <description>Recent content in X on Lishan AZ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Apr 2016 00:15:59 -0700</lastBuildDate>
+    <atom:link href="http://lishanaz.com/tags/x/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ascension</title>
+      <link>http://lishanaz.com/project/ascension/</link>
+      <pubDate>Tue, 26 Apr 2016 00:15:59 -0700</pubDate>
+      
+      <guid>http://lishanaz.com/project/ascension/</guid>
+      <description>&lt;p&gt;This is where my project description would go&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Beauty of H Street</title>
+      <link>http://lishanaz.com/project/beauty-of-h-street/</link>
+      <pubDate>Tue, 26 Apr 2016 00:15:59 -0700</pubDate>
+      
+      <guid>http://lishanaz.com/project/beauty-of-h-street/</guid>
+      <description>&lt;p&gt;This is where my project description would go&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bernie &amp; Bernice</title>
+      <link>http://lishanaz.com/project/bernie-bernice/</link>
+      <pubDate>Tue, 26 Apr 2016 00:15:59 -0700</pubDate>
+      
+      <guid>http://lishanaz.com/project/bernie-bernice/</guid>
+      <description>&lt;p&gt;This is where my project description would go&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Locker</title>
+      <link>http://lishanaz.com/project/the-locker%20-%20Copy%20%283%29/</link>
+      <pubDate>Tue, 26 Apr 2016 00:15:59 -0700</pubDate>
+      
+      <guid>http://lishanaz.com/project/the-locker%20-%20Copy%20%283%29/</guid>
+      <description>&lt;p&gt;This is where my project description would go&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Locker</title>
+      <link>http://lishanaz.com/project/the-locker/</link>
+      <pubDate>Tue, 26 Apr 2016 00:15:59 -0700</pubDate>
+      
+      <guid>http://lishanaz.com/project/the-locker/</guid>
+      <description>&lt;p&gt;This is where my project description would go and I can retrieve it with {{.Content}}&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

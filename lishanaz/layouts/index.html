@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  {{ partial "head.html" . }}
+</head>
+<body>
+
+<div class="fullPage">
+
+    {{ partial "header.html" . }}
+
+
+    <article>
+
+        {{ range .Data.Pages }} 
+          <a class="project" href="{{ .Permalink }}">
+            <span class="overlay">
+              <span class="overlay-text">
+                {{ .Date }} <!-- . means starting in "Page" context for each Page -->
+              </span>
+            </span>
+            <span class="project-info">
+              <img src="{{ .Params.image }}" class="project-image"/>
+              <h2>{{ .Title }}</h2>
+              <p>{{ .Params.preview }}</p>
+            </span>
+          </a>
+        {{ end }}
+   
+    </article>
+</div>
+
+</body>
+</html>
+
+
+
