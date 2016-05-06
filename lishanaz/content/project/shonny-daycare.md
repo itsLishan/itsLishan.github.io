@@ -1,19 +1,19 @@
 +++
-date = "2016-04-26T00:15:59-07:00"
+date = "2014-10-02"
 preview = "my description"
 tags = ["x", "y"]
 title = "Shonny's Daycare Quest"
-image = "images/candle.jpg"
+image = "/images/Shonny.png"
 video = "link to video"
 weight = 6
 
 [[collaborators]]
-name = "thing 1"
-website = "jegdhj"
+name = "Liane Scott"
+website = "http://www.grassrootsdc.org/"
 
 [[collaborators]]
-name = "thing 2"
-website = "hjsyj"
+name = "Grassroots DC"
+website = "http://www.grassrootsdc.org/"
 
 +++
 

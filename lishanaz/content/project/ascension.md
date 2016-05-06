@@ -1,20 +1,21 @@
 +++
-date = "2016-04-26T00:15:59-07:00"
-preview = "my description"
+date = "2014-09-02"
+preview = "turn-based tabletop strategy game"
 tags = ["x", "y"]
 title = "Ascension"
-image = "images/candle.jpg"
+image = "images/Ascension.JPG"
+headerImage = "/images/Ascension_play.jpg"
 video = "link to video"
-weight = 6
+weight = 5
 
 [[collaborators]]
-name = "thing 1"
-website = "jegdhj"
+name = "Thomas Lu"
+website = "http://www.thomastianlu.com/"
 
 [[collaborators]]
-name = "thing 2"
-website = "hjsyj"
+name = "Patrick Quah"
+website = "https://patrickquah.carbonmade.com/"
 
 +++
 
-This is where my project description would go
+turn-based tabletop strategy game

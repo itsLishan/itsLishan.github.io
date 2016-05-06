@@ -24,26 +24,6 @@
     </item>
     
     <item>
-      <title>Ascension</title>
-      <link>http://lishanaz.com/project/ascension/</link>
-      <pubDate>Tue, 26 Apr 2016 00:15:59 -0700</pubDate>
-      
-      <guid>http://lishanaz.com/project/ascension/</guid>
-      <description>&lt;p&gt;This is where my project description would go&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Beauty of H Street</title>
-      <link>http://lishanaz.com/project/beauty-of-h-street/</link>
-      <pubDate>Tue, 26 Apr 2016 00:15:59 -0700</pubDate>
-      
-      <guid>http://lishanaz.com/project/beauty-of-h-street/</guid>
-      <description>&lt;p&gt;This is where my project description would go&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Bernie &amp; Bernice</title>
       <link>http://lishanaz.com/project/bernie-bernice/</link>
       <pubDate>Tue, 26 Apr 2016 00:15:59 -0700</pubDate>
@@ -54,11 +34,31 @@
     </item>
     
     <item>
+      <title>Ascension</title>
+      <link>http://lishanaz.com/project/ascension/</link>
+      <pubDate>Tue, 02 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://lishanaz.com/project/ascension/</guid>
+      <description>&lt;p&gt;turn-based tabletop strategy game&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Shonny&#39;s Daycare Quest</title>
       <link>http://lishanaz.com/project/shonny-daycare/</link>
-      <pubDate>Tue, 26 Apr 2016 00:15:59 -0700</pubDate>
+      <pubDate>Thu, 02 Oct 2014 00:00:00 +0000</pubDate>
       
       <guid>http://lishanaz.com/project/shonny-daycare/</guid>
+      <description>&lt;p&gt;This is where my project description would go&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Beauty of H Street</title>
+      <link>http://lishanaz.com/project/beauty-of-h-street/</link>
+      <pubDate>Tue, 26 Apr 2016 00:15:59 -0700</pubDate>
+      
+      <guid>http://lishanaz.com/project/beauty-of-h-street/</guid>
       <description>&lt;p&gt;This is where my project description would go&lt;/p&gt;
 </description>
     </item>

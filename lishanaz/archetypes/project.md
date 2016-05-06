@@ -4,6 +4,7 @@ preview = "my description"
 tags = ["x", "y"]
 title = "the locker"
 image = "source sring for image"
+headerimage = "/images/IMAGENAME.JPG"
 video = "link to video"
 weight = 0
 

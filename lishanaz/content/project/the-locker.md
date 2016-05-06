@@ -4,6 +4,7 @@ preview = "interactive mixed reality installation"
 tags = ["x", "y"]
 title = "The Locker"
 image = "/images/Locker.JPG"
+wideImage = "/images/Locker.JPG"
 video = "link to video"
 weight = 1
 
