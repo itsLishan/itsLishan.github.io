@@ -135,3 +135,12 @@ a.project{
 .projectTitle{
   padding-bottom: 1rem;
 }
+
+a.header-link{
+  text-decoration: none;
+  color: #111;
+}
+
+.header-link:hover{
+  color: rgba(196, 18, 18, 1);
+}
