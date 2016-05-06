@@ -108,6 +108,10 @@ a.project{
 	margin: auto;
 }
 
+.mainImage{
+  width = 3%;
+}
+
 .icon{
 	display: inline-block;
     float: right;
@@ -122,4 +126,8 @@ a.project{
 
 .caption{
 	display: block;
+}
+
+.mainImage{
+  width = 100%;
 }

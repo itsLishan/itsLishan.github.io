@@ -9,9 +9,16 @@
 
     {{ partial "header.html" . }}
 
+    <h2>{{ .Title }}</h2>
+     <!-- <img class = "mainImage" src="{{ .Params.image }}"/> -->
+
     {{ .Content }}
 
-	see here
+    <h3>Collaborators</h3>
+    {{ range .Params.collaborators }}
+    	{{ .name}}
+    {{end}}
+
 
    
 </div>

@@ -6,8 +6,23 @@
     <description>Recent content in X on Lishan AZ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Apr 2016 00:15:59 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 21 Dec 2015 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://lishanaz.com/tags/x/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Locker</title>
+      <link>http://lishanaz.com/project/the-locker/</link>
+      <pubDate>Mon, 21 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://lishanaz.com/project/the-locker/</guid>
+      <description>&lt;p&gt;The Locker is an interactive mixed reality installation in which players examine physical artifacts to solve a mystery. Film clues are embedded in the artifacts in mixed reality.&lt;/p&gt;
+
+&lt;p&gt;The project was featured in an LA times article:
+&lt;a href=&#34;http://www.latimes.com/entertainment/herocomplex/la-et-hc-usc-women-video-game-design-program-20160124-htmlstory.html&#34;&gt;http://www.latimes.com/entertainment/herocomplex/la-et-hc-usc-women-video-game-design-program-20160124-htmlstory.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;video coming soon&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Ascension</title>
@@ -40,22 +55,12 @@
     </item>
     
     <item>
-      <title>The Locker</title>
-      <link>http://lishanaz.com/project/the-locker%20-%20Copy%20%283%29/</link>
+      <title>Shonny&#39;s Daycare Quest</title>
+      <link>http://lishanaz.com/project/shonny-daycare/</link>
       <pubDate>Tue, 26 Apr 2016 00:15:59 -0700</pubDate>
       
-      <guid>http://lishanaz.com/project/the-locker%20-%20Copy%20%283%29/</guid>
+      <guid>http://lishanaz.com/project/shonny-daycare/</guid>
       <description>&lt;p&gt;This is where my project description would go&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The Locker</title>
-      <link>http://lishanaz.com/project/the-locker/</link>
-      <pubDate>Tue, 26 Apr 2016 00:15:59 -0700</pubDate>
-      
-      <guid>http://lishanaz.com/project/the-locker/</guid>
-      <description>&lt;p&gt;This is where my project description would go and I can retrieve it with {{.Content}}&lt;/p&gt;
 </description>
     </item>
     
