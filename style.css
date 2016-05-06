@@ -36,13 +36,17 @@ article {
 }
 
 .overlay-text{
-	margin: auto;
+	
+    margin: auto;
     color: white;
-    align-items: center;
-    display: flex;
-    justify-content: center;
+    /* align-items: center; */
+    /* display: flex; */
+    display: block;
+    /* justify-content: center; */
     width: 100%;
     height: 100%;
+    width: 8rem;
+    margin-top: 3rem;
 }
 
 p {
@@ -108,10 +112,6 @@ a.project{
 	margin: auto;
 }
 
-.mainImage{
-  width = 3%;
-}
-
 .icon{
 	display: inline-block;
     float: right;
@@ -129,5 +129,9 @@ a.project{
 }
 
 .mainImage{
-  width = 100%;
+  width: 100%;
+}
+
+.projectTitle{
+  padding-bottom: 1rem;
 }
