@@ -3,8 +3,8 @@ date = "2015-12-21"
 preview = "interactive mixed reality installation"
 tags = ["x", "y"]
 title = "The Locker"
-image = "/images/Locker.JPG"
-wideImage = "/images/Locker.JPG"
+image = "/images/Locker.jpg"
+headerImage = "/images/LockerWide.jpg"
 video = "link to video"
 weight = 1
 

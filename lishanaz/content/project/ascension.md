@@ -4,7 +4,7 @@ preview = "turn-based tabletop strategy game"
 tags = ["x", "y"]
 title = "Ascension"
 image = "images/Ascension.JPG"
-headerImage = "/images/Ascension_play.jpg"
+headerimage = "/images/Ascension_play.jpg"
 video = "link to video"
 weight = 5
 
