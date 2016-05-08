@@ -5,7 +5,6 @@ tags = ["x", "y"]
 title = "The Locker"
 image = "/images/Locker.jpg"
 headerImage = "/images/LockerWide.jpg"
-video = "link to video"
 weight = 1
 
 [[collaborators]]

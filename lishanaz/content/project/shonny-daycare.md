@@ -5,7 +5,6 @@ tags = ["x", "y"]
 title = "Shonny's Daycare Quest"
 image = "/images/Shonny.png"
 headerimage = "/images/ShonnyWide.png"
-video = "link to video"
 weight = 6
 
 [[collaborators]]

@@ -5,7 +5,6 @@ tags = ["x", "y"]
 title = "Ascension"
 image = "images/Ascension.jpg"
 headerimage = "/images/Ascension_play.jpg"
-video = "link to video"
 weight = 5
 
 [[collaborators]]

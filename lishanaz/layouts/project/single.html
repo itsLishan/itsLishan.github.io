@@ -11,13 +11,19 @@
 
     <h2 class="projectTitle">{{ .Title }}</h2>
      <img class = "mainImage" src="{{ .Params.headerimage }}"/>
+  
+	 {{ if .Params.video}}
+	 <div class="video-wrapper">
+	 	<iframe width="1920" height="1080" src="https://www.youtube.com/embed/{{ .Params.video }}?modestbranding=0&showinfo=0&rel=0" frameborder="0" allowfullscreen=""></iframe>
+	 </div>
+	 {{ end }}
 
     {{ .Content }}
 
     <h3>Collaborators</h3>
     {{ range .Params.collaborators }}
-    	{{ .name}}
-    {{end}}
+    	<p>{{ if .website }}<a class = "red-link" href="{{ .website }}">{{ end }}{{ .name}}{{ if .website }}</a>{{ end }}</p>
+    {{ end }}
 
 
    

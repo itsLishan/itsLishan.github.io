@@ -4,8 +4,7 @@ preview = "documentary about gentrification on H St. NE in Washington, DC"
 tags = ["x", "y"]
 title = "Beauty of H Street"
 image = "/images/BeautyOfHStreet.png"
-headerimage = "/images/BeautyOfHStreet.png"
-video = "link to video"
+video = "dAMx008xFP8"
 weight = 99
 
 [[collaborators]]
