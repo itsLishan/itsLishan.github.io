@@ -3,7 +3,7 @@ date = "2015-05-02"
 preview = "collaborative art interactive experience that gets players moving their bodies in public space"
 tags = ["x", "y"]
 title = "B + Bernice"
-image = "/images/Bernice.JPG"
+image = "/images/Bernice.jpg"
 headerimage = "/images/Bernice_play.gif"
 weight = 2
 
