@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Y on Lishan AZ</title>
-    <link>http://lishanaz.com/tags/y/</link>
-    <description>Recent content in Y on Lishan AZ</description>
+    <title>Lishan AZ</title>
+    <link>http://itslishan.com/tags/y/index.xml</link>
+    <description>Recent content on Lishan AZ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Dec 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://lishanaz.com/tags/y/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://itslishan.com/tags/y/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The Locker</title>
-      <link>http://lishanaz.com/project/the-locker/</link>
+      <link>http://itslishan.com/the-locker</link>
       <pubDate>Mon, 21 Dec 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://lishanaz.com/project/the-locker/</guid>
+      <guid>http://itslishan.com/the-locker</guid>
       <description>&lt;p&gt;The Locker is an interactive mixed reality installation in which players examine physical artifacts to solve a mystery. Film clues are embedded in the artifacts in mixed reality.&lt;/p&gt;
 
 &lt;p&gt;The project was featured in an LA times &lt;a href=&#34;http://www.latimes.com/entertainment/herocomplex/la-et-hc-usc-women-video-game-design-program-20160124-htmlstory.html&#34;&gt;article&lt;/a&gt;&lt;/p&gt;
@@ -24,12 +23,12 @@
     </item>
     
     <item>
-      <title>B &#43; Bernice</title>
-      <link>http://lishanaz.com/project/b-bernice/</link>
+      <title>Bernie &#43; Bernice</title>
+      <link>http://itslishan.com/bernie-bernice</link>
       <pubDate>Sat, 02 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://lishanaz.com/project/b-bernice/</guid>
-      <description>&lt;p&gt;B + Bernice is a 1- or 2-person interactive experience that is intended for lobbies and other passive public spaces. During gameplay, players move their bodies to control a particle system displayed on a large screen in front of them. Particles leave a trace of their recent movement, allowing players to create ephemeral particle art as they move. One player alone can control the system to satisfaction, but a second player introduces a new strong force that allows them to manipulate the system together.&lt;/p&gt;
+      <guid>http://itslishan.com/bernie-bernice</guid>
+      <description>&lt;p&gt;Bernie + Bernice is a 1- or 2-person interactive experience that is intended for lobbies and other passive public spaces. During gameplay, players move their bodies to control a particle system displayed on a large screen in front of them. Particles leave a trace of their recent movement, allowing players to create ephemeral particle art as they move. One player alone can control the system to satisfaction, but a second player introduces a new strong force that allows them to manipulate the system together.&lt;/p&gt;
 
 &lt;p&gt;The experience is “always on.” A spherical particle system sits in the middle of the screen, pulsing such that it almost seems to breathe, waiting to be played with. An unknowing passerby causes the particles to move with them, and begins to play without even realizing. If the passerby chooses to try out different body movements (such as opening their hands wide), they will discover new ways to play. My intention was to make the experience as approachable as possible, such that someone might discover play through their everyday movements, and if they choose, engage further through exploration.&lt;/p&gt;
 
@@ -41,32 +40,30 @@
     
     <item>
       <title>Ascension</title>
-      <link>http://lishanaz.com/project/ascension/</link>
+      <link>http://itslishan.com/ascension</link>
       <pubDate>Tue, 02 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://lishanaz.com/project/ascension/</guid>
+      <guid>http://itslishan.com/ascension</guid>
       <description>&lt;p&gt;turn-based tabletop strategy game&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Shonny&#39;s Daycare Quest</title>
-      <link>http://lishanaz.com/project/shonny-daycare/</link>
+      <title>Shonnie&#39;s Daycare Quest</title>
+      <link>http://itslishan.com/shonnie-daycare</link>
       <pubDate>Thu, 02 Oct 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://lishanaz.com/project/shonny-daycare/</guid>
-      <description>&lt;p&gt;Shonny&amp;rsquo;s Daycare Quest is a sarcastic interactive film about a mother jumping through hoops to obtain subsidized childcare for her daughter in Washington, DC. Shonny, the protagonist, has to take days off of work to endure the lengthy process of obtaining a government subsidy, and finding a daycare that that will accept it. The player makes decisions for Shonny as she jumps through bureaucratic hoops, trying to succeed before Shonny gets fired for missing too many days of work.&lt;/p&gt;
-
-&lt;p&gt;At every step of production, I tied the design process to the people whose stories I was depicting. The piece uses real statistics and testimonies from parents, obtained through the advocacy work of Empower DC and Grassroots DC. The characters (for the stop-motion animation) were drawn by the children of the parents who offered their testimony.&lt;/p&gt;
+      <guid>http://itslishan.com/shonnie-daycare</guid>
+      <description>&lt;p&gt;Shonnie&amp;rsquo;s Daycare Quest is an interactive animated film about a mother trying to obtain subsidized childcare for her daughter in Washington, DC. The player makes decisions for Shonnie as she jumps through bureaucratic hoops, trying to succeed before Shonnie gets fired for missing too many days of work. This story is based on the testimony of real women in Washington, DC, archived through the advocacy work of Empower DC and Grassroots DC. The illustrations were drawn by the children of the mothers who offered their testimony.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Beauty of H Street</title>
-      <link>http://lishanaz.com/project/beauty-of-h-street/</link>
+      <link>http://itslishan.com/beauty-of-h-street</link>
       <pubDate>Fri, 02 Nov 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://lishanaz.com/project/beauty-of-h-street/</guid>
+      <guid>http://itslishan.com/beauty-of-h-street</guid>
       <description>&lt;p&gt;&amp;ldquo;Beauty of H Street&amp;rdquo; examines the history of H Street Northeast, once a hub of African American barber shops and salons. The documentary follows the neighborhood from the ‘60s riots to destitution to its current state as one of the fastest gentrifying neighborhoods in Washington, DC. It features interviews from barbershop owners who were there from the &amp;lsquo;60s until now, and spoken word from DC youth.&lt;/p&gt;
 
 &lt;p&gt;We won a grant from The Humanities Council to complete this project.&lt;/p&gt;

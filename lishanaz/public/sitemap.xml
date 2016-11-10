@@ -2,33 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://lishanaz.com/</loc>
-    <lastmod>2015-12-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://lishanaz.com/project/the-locker/</loc>
+    <loc>http://itslishan.com/</loc>
     <lastmod>2015-12-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://lishanaz.com/project/b-bernice/</loc>
+    <loc>http://itslishan.com/the-locker</loc>
+    <lastmod>2015-12-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://itslishan.com/bernie-bernice</loc>
     <lastmod>2015-05-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://lishanaz.com/project/ascension/</loc>
+    <loc>http://itslishan.com/ascension</loc>
     <lastmod>2014-09-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://lishanaz.com/project/shonny-daycare/</loc>
+    <loc>http://itslishan.com/shonnie-daycare</loc>
     <lastmod>2014-10-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://lishanaz.com/project/beauty-of-h-street/</loc>
+    <loc>http://itslishan.com/beauty-of-h-street</loc>
     <lastmod>2012-11-02T00:00:00+00:00</lastmod>
   </url>
   
