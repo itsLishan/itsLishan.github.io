@@ -4,6 +4,7 @@ preview = "interactive film about a mother jumping through hoops to obtain gover
 tags = ["x", "y"]
 title = "Shonnie's Daycare Quest"
 image = "/images/Shonny.png"
+projectsite = "/daycare-quest/"
 headerimage = "/images/ShonnyWide.png"
 weight = 6
 

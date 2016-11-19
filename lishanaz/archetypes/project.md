@@ -6,6 +6,7 @@ title = "the locker"
 image = "source sring for image"
 headerimage = "/images/IMAGENAME.JPG"
 video = "link to video"
+projectsite = "project site"
 weight = 0
 
 [[collaborators]]

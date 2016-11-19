@@ -9,13 +9,18 @@
 
     {{ partial "header.html" . }}
 
+    {{ if isset .Params "projectsite" }}
+    <h2 class="projectTitle"><a class = "red-link" href = "{{ .Params.projectsite }}" target="_blank">{{ .Title }}</a></h2>
+    {{ else }}
     <h2 class="projectTitle">{{ .Title }}</h2>
-     <img class = "mainImage" src="{{ .Params.headerimage }}"/>
-  
+    {{end}}
+
 	 {{ if .Params.video}}
 	 <div class="video-wrapper">
 	 	<iframe width="1920" height="1080" src="https://www.youtube.com/embed/{{ .Params.video }}?modestbranding=0&showinfo=0&rel=0" frameborder="0" allowfullscreen=""></iframe>
 	 </div>
+   {{else}}
+   <img class = "mainImage" src="{{ .Params.headerimage }}"/>
 	 {{ end }}
 
     {{ .Content }}
