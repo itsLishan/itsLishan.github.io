@@ -145,6 +145,14 @@ a.red-link{
   color: rgba(196, 18, 18, 1);
 }
 
+p a{
+  color: rgba(196, 18, 18, 1);
+}
+
+p a:hover{
+  color: #960B0B;
+}
+
 .video-wrapper{
     position: relative;
     padding-bottom: 56.25%; /* 16:9 */
