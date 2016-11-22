@@ -5,6 +5,7 @@ tags = ["x", "y"]
 title = "Beauty of H Street"
 image = "/images/BeautyOfHStreet.png"
 video = "dAMx008xFP8"
+isyoutube = true
 weight = 99
 
 [[collaborators]]

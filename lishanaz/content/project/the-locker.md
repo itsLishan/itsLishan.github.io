@@ -1,12 +1,12 @@
 +++
 date = "2015-12-21"
 preview = "interactive mixed reality installation"
-tags = ["x", "y"]
 title = "The Locker"
 image = "/images/Locker.jpg"
 headerImage = "/images/LockerWide.jpg"
 projectsite = "http://playthelocker.com/"
 video = "Vh7VYZFILSo"
+isyoutube = true
 weight = 1
 
 [[collaborators]]

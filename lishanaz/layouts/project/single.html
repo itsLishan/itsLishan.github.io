@@ -17,7 +17,11 @@
 
 	 {{ if .Params.video}}
 	 <div class="video-wrapper">
+   {{if isset .Params "isyoutube" }}
 	 	<iframe width="1920" height="1080" src="https://www.youtube.com/embed/{{ .Params.video }}?modestbranding=0&showinfo=0&rel=0" frameborder="0" allowfullscreen=""></iframe>
+    {{ else }}
+    <iframe width="1920" height="1080" src="{{ .Params.video }}" frameborder="0" allowfullscreen=""></iframe>
+    {{ end }}
 	 </div>
    {{else}}
    <img class = "mainImage" src="{{ .Params.headerimage }}"/>
@@ -27,7 +31,7 @@
 
     <h3>Collaborators</h3>
     {{ range .Params.collaborators }}
-    	<p>{{ if .website }}<a class = "red-link" href="{{ .website }}">{{ end }}{{ .name}}{{ if .website }}</a>{{ end }}</p>
+    	<p>{{ if .website }}<a class = "red-link" target="_blank" href="{{ .website }}">{{ end }}{{ .name}}{{ if .website }}</a>{{ end }}</p>
     {{ end }}
 
 

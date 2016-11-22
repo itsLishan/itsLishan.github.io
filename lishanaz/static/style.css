@@ -93,6 +93,11 @@ a.project{
 	padding: 0;
 }
 
+.splitImage{
+  width: 50%;
+  float: left;
+}
+
 .project p{
 	text-align:  left;
 	margin-top: 0.2rem;
