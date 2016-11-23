@@ -7,7 +7,7 @@ image = "/images/Bernice.jpg"
 headerimage = "/images/Bernice_play.gif"
 weight = 2
 
-[[collaborators]]
+[[collaborator]]
 name = "Laura Cechanowicz"
 website = "http://cargocollective.com/lauracecha/Laura-Cechanowicz"
 

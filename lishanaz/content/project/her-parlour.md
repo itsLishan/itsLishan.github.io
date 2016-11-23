@@ -8,11 +8,11 @@ video = "https://player.vimeo.com/video/158183212"
 projectsite = "project site"
 weight = 10
 
-[[collaborators]]
+[[collaborator]]
 name = "Junh-Ho Sohn"
 website = "http://www.junghosohn.com/"
 
-[[collaborators]]
+[[collaborator]]
 name = "Zekia Zhan"
 website = "http://www.thezhan.work/"
 

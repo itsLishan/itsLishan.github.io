@@ -8,13 +8,13 @@ video = "dAMx008xFP8"
 isyoutube = true
 weight = 99
 
-[[collaborators]]
+[[collaborator]]
 name = "Kellen Patterson"
 
-[[collaborators]]
+[[collaborator]]
 name = "Pamela Johnson"
 
-[[collaborators]]
+[[collaborator]]
 name = "Liane Scott"
 
 +++

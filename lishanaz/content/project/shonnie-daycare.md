@@ -8,11 +8,11 @@ projectsite = "/daycare-quest/"
 headerimage = "/images/ShonnyWide.png"
 weight = 6
 
-[[collaborators]]
+[[collaborator]]
 name = "Liane Scott"
 website = "http://www.grassrootsdc.org/"
 
-[[collaborators]]
+[[collaborator]]
 name = "Grassroots DC"
 website = "http://www.grassrootsdc.org/"
 

@@ -93,6 +93,27 @@ a.project{
 	padding: 0;
 }
 
+.roles, .people{
+  list-style: none;
+}
+
+.roles h4{
+  display: inline-block;
+  margin: 1rem 0 0 0;
+}
+
+.people{
+  display: inline-block;
+  padding: 0;
+}
+.person{
+  display: inline-block;
+}
+
+.person:not(:first-child):before{
+  content: ", ";
+}
+
 .splitImage{
   width: 50%;
   float: left;

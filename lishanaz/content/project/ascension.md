@@ -7,11 +7,11 @@ image = "images/Ascension.jpg"
 headerimage = "/images/Ascension_play.jpg"
 weight = 5
 
-[[collaborators]]
+[[collaborator]]
 name = "Thomas Lu"
 website = "http://www.thomastianlu.com/"
 
-[[collaborators]]
+[[collaborator]]
 name = "Patrick Quah"
 website = "https://patrickquah.carbonmade.com/"
 

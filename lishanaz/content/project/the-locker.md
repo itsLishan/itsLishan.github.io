@@ -9,10 +9,10 @@ video = "Vh7VYZFILSo"
 isyoutube = true
 weight = 1
 
-[[collaborators]]
+[[collaborator]]
 name = "Chao Chen"
 
-[[collaborators]]
+[[collaborator]]
 name = "Alex Heinrich"
 
 +++
