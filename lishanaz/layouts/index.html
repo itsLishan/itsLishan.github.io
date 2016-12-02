@@ -14,17 +14,15 @@
 
         {{ range .Data.Pages }} 
           <a class="project" href="{{ .Permalink }}">
-            <span class="overlay">
+            <!-- <span class="overlay">
               <span class="overlay-text">
-                <p>{{ .Date.Format "January 2006" }}</p><!-- . means starting in "Page" context for each Page -->
-                
-                
-                
-                
+                <p>{{ .Date.Format "January 2006" }}</p>
               </span>
-            </span>
+            </span> -->
             <span class="project-info">
-              <img src="{{ .Params.image }}" class="project-image"/>
+              <div class="thumbnail-frame">
+                <img src="{{ .Params.image }}" class="project-image"/>
+              </div>
               <h2>{{ .Title }}</h2>
               <p>{{ .Params.preview }}</p>
             </span>
