@@ -1,0 +1,78 @@
+<html>
+
+<head>
+    <title>AskedQuestions</title>
+
+    <style>
+        body {
+            background-color: #CFF8F5;
+            font-size: 30px;
+        }
+        .button {
+            background-color: #F5EEDE;
+            border: solid;
+            color: black;
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 24px;
+            margin: 4px 2px;
+            cursor: pointer;
+        }
+         .button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+        .center1 {
+            position: absolute;
+            left: 0;
+            top: 0%;
+            width: 100%;
+            text-align: center;
+            font-size: 24px;
+        }
+    </style>
+</head>
+
+<body>
+
+
+    <br>
+
+    <div class="center1">
+        <button onclick="openGetQuestion()" class="button"> Return to Questions
+        </button>
+    </div>
+
+    <script>
+        var fromstring = sessionStorage.getItem('access');
+        fromstring = JSON.parse(fromstring);
+        var x = fromstring.length;
+        var y = fromstring.length;
+
+        x--;
+
+
+
+        while (x > -1) {
+
+            if (fromstring[x].asked == "Yes") {
+                document.write("<br>");
+                document.write(fromstring[x].quest);
+                document.write("<br>");
+            }
+            x--;
+
+        }
+
+   
+
+        function openGetQuestion() {
+            window.open("FourCorners.html", "_self");
+        }
+    </script>
+</body>
+
+</html>

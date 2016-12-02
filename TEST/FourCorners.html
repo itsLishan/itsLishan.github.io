@@ -1,0 +1,227 @@
+<html>
+
+<head>
+    <Title>Cornerstone</Title>
+
+
+
+    <style>
+        .button1 {
+            background-color: #F5EEDE;
+            border: solid;
+            color: black;
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 24px;
+            margin: 4px 2px;
+            cursor: pointer;
+        }
+         .button1:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+        .button2 {
+            background-color: #F5EEDE;
+            border: dotted;
+            color: black;
+            padding: 6px 6px;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 20px;
+            margin: 4px 155px;
+            cursor: pointer;
+        }
+         .button2:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+        body {
+            background-color: #CFF8F5;
+        }
+        .center1 {
+            position: absolute;
+            left: 0;
+            top: 18%;
+            width: 100%;
+            text-align: center;
+        }
+        .center2 {
+            position: absolute;
+            left: 0;
+            top: 36%;
+            width: 100%;
+            text-align: center;
+        }
+        .center3 {
+            position: absolute;
+            left: 0;
+            top: 54%;
+            width: 100%;
+            text-align: center;
+        }
+        .center4 {
+            text-align: center;
+            display: inline-block;
+
+        }
+        .center5 {
+          text-align: center;
+           
+           display: inline-block;
+        
+
+          
+        }
+        .center6 {
+            text-align: center;
+             
+             display: inline-block;
+            
+            
+        }
+    </style>
+
+</head>
+
+
+<body>
+
+
+
+
+    <div class="center1">
+        <input type="button" onclick="setX();openAskThisQuestion()" class="button1" value="Button Text1" id="myButton1"></input>
+    </div>
+
+    <div class="center2">
+        <input type="button" onclick="setY();openAskThisQuestion()" class="button1" value="Button Text2" id="myButton2"></input>
+    </div>
+    <div class="center3">
+        <input type="button" onclick="setZ();openAskThisQuestion()" class="button1" value="Button Text3" id="myButton3"></input>
+    </div>
+
+
+
+
+    
+
+
+    <div class="center5">
+        <button onclick="openAskedQuestions()" class="button2">
+            <p>Question History</p>
+        </button>
+    </div>
+    <div class="center4">
+        <button onclick="window.location.reload()" class="button2">
+            <p>More Questions</p>
+        </button>
+    </div>
+
+    <div class="center6">
+        <button onclick="openIndex()" class="button2">
+            <p>End Session</p>
+        </button>
+    </div>
+
+    <script>
+        var fromstring = sessionStorage.getItem('access');
+        fromstring = JSON.parse(fromstring);
+       // document.write(fromstring[0].test);
+
+        var globalX = 0;
+        var globalY = 0;
+        var globalZ = 0;
+
+
+
+
+        var length = fromstring.length;
+        var min = 0;
+        var max = length - 1;
+
+        function getRandomArbitrary(min, max) {
+            return Math.round(Math.random() * (max - min) + min);
+        }
+
+        function Produce() {
+            var x = getRandomArbitrary(min, max);
+            var y = getRandomArbitrary(min, max);
+            var z = getRandomArbitrary(min, max);
+
+
+
+            while (x == y || y == z || z == x) {
+                var x = getRandomArbitrary(min, max);
+                var y = getRandomArbitrary(min, max);
+                var z = getRandomArbitrary(min, max);
+            }
+            globalX = x;
+            globalY = y;
+            globalZ = z;
+
+            var buttoncontentx = fromstring[x].test;
+            var buttoncontenty = fromstring[y].test;
+            var buttoncontentz = fromstring[z].test;
+
+
+
+            var elem = document.getElementById("myButton1");
+            elem.value = buttoncontentx;
+            var elem = document.getElementById("myButton2");
+            elem.value = buttoncontenty;
+            var elem = document.getElementById("myButton3");
+            elem.value = buttoncontentz;
+
+        }
+
+
+
+        Produce();
+
+        function setX() {
+
+            fromstring[globalX].asked = "Yes";
+            fromstring[globalX].beingasked = "asked";
+            var tostring = JSON.stringify(fromstring);
+            sessionStorage.setItem('access', tostring);
+
+        }
+
+        function setY() {
+
+            fromstring[globalY].asked = "Yes";
+            fromstring[globalY].beingasked = "asked";
+            var tostring = JSON.stringify(fromstring);
+            sessionStorage.setItem('access', tostring);
+
+        }
+
+        function setZ() {
+
+            fromstring[globalZ].asked = "Yes";
+            fromstring[globalZ].beingasked = "asked";
+            var tostring = JSON.stringify(fromstring);
+            sessionStorage.setItem('access', tostring);
+        }
+
+        function openIndex() {
+            window.open("index.html", "_self");
+        }
+
+        function openAskedQuestions() {
+            window.open("AskedQuestions.html", "_self");
+        }
+
+        function openAskThisQuestion() {
+
+            window.open("AskThisQuestion.html", "_self");
+        }
+    </script>
+
+</body>
+
+</html>

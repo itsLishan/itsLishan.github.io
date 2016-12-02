@@ -1,0 +1,82 @@
+<html>
+
+<head>
+    <Title>Cornerstone</Title>
+
+    <style>
+        body {
+            background-color: #CFF8F5;
+        }
+        .button {
+            background-color: #F5EEDE;
+            border: solid;
+            color: black;
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 24px;
+            margin: 4px 2px;
+            cursor: pointer;
+        }
+         .button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+        .center1 {
+            position: absolute;
+            left: 0;
+            top: 40%;
+            width: 100%;
+            text-align: center;
+            font-size: 24px;
+        }
+        .center2 {
+            position: absolute;
+            left: 0;
+            top: 55%;
+            width: 100%;
+            text-align: center;
+            font-size: 24px;
+        }
+    </style>
+
+</head>
+
+<body>
+
+
+    <font size=4>
+There is no right or wrong answer. Choose based on how you feel in the moment. Your answer might be different by tonight.
+When you get to your corner, find 1 thing that all of you have in common with each other, and write it down on an index card. 
+Try to find things that are significant to you, and especially things related to the question. Try to avoid trivial things like what you're wearing.
+Ex: we all loved to draw, we all got access to a computer as children, we all learned about history from an older family member.
+If you don't identify with any of the corners, or if you get to your corner and you're the only one there, come join me in the middle and we'll be the fifth corner
+    </font>
+
+
+
+    <div class="center1">
+        <button onclick="openIndex()" class="button"> Main Page
+        </button>
+    </div>
+
+
+    <script>
+        var fromstring = sessionStorage.getItem('access');
+        fromstring = JSON.parse(fromstring);
+
+
+
+        function openIndex() {
+            window.open("index.html", "_self");
+        }
+        var tostring = JSON.stringify(fromstring);
+        sessionStorage.setItem('access', tostring);
+    </script>
+
+</body>
+
+
+</html>

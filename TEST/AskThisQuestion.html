@@ -1,0 +1,117 @@
+<html>
+
+<head>
+    <title>AskThisQuestion</title>
+
+
+
+    <style>
+   
+
+
+
+        body {
+            background-color: #CFF8F5;
+            font-size: 40px;
+        }
+        .button {
+      
+            background-color: #F5EEDE;
+            border: solid;
+            color: black;
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 24px;
+            margin: 20px 10px;
+            cursor: pointer;
+            
+            
+        }
+        .button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+        .center1 {
+         
+            text-align: center;
+            
+     
+        }
+        .center2 {
+            
+            
+             text-align: center;
+        ;
+                 
+
+            
+        }
+    </style>
+
+</head>
+
+<body>
+
+
+    <div class="center1">
+        <button onclick="askQuestion()" class="button"> Ask Question
+        </button>
+    </div>
+
+
+
+    <script>
+    document.write("<br>");
+        var globalX = "0";
+        var fromstring = sessionStorage.getItem('access');
+        fromstring = JSON.parse(fromstring);
+        var x = fromstring.length;
+        x--;
+
+        while (x > -1) {
+            if (fromstring[x].beingasked == "asked") {
+                fromstring[x].asked = "Yes"
+                document.write(fromstring[x].quest);
+                document.write("<br>");
+                document.write(fromstring[x].dir1);
+                document.write("<br>");
+                document.write(fromstring[x].dir2);
+                document.write("<br>");
+                document.write(fromstring[x].dir3);
+                document.write("<br>");
+                document.write(fromstring[x].dir4);
+                fromstring[x].beingasked = "notasked";
+                globalX = x;
+            }
+            x--;
+        }
+
+
+        function askQuestion() {
+              var tostring = JSON.stringify(fromstring);
+            sessionStorage.setItem('access', tostring);
+            window.open("FourCorners.html", "_self");
+        }
+
+        function skipQuestion(){
+           fromstring[globalX].asked = "No";
+             var tostring = JSON.stringify(fromstring);
+       sessionStorage.setItem('access', tostring);
+            window.open("FourCorners.html", "_self");
+         }
+     
+      
+    </script>
+      <div class="center2">
+        <button onclick="skipQuestion()" class="button"> Skip Question
+        </button>
+    </div>
+
+
+
+</body>
+
+</html>
