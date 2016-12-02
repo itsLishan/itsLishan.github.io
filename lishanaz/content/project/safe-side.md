@@ -64,6 +64,13 @@ weight = 2
 	website = "http://gamejolt.com/@emahler/games"
 
 [[role]]
+	name="Music"
+
+	[[role.collaborator]]
+	name= "Aaron Reihs"
+	website= "http://www.aaronreihsmusic.com/"
+
+[[role]]
 	name="Interns"
 
 	[[role.collaborator]]

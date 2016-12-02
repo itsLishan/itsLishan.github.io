@@ -31,8 +31,12 @@ article {
   opacity: 0;
 }
 
-.project:hover .overlay{
+/*.project:hover .overlay{
 	opacity: 1;
+}*/
+
+.project:hover .project-info{
+  color: rgba(196, 18, 18, 1);
 }
 
 .overlay-text{
