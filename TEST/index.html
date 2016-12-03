@@ -35,7 +35,7 @@
         .center2 {
             position: absolute;
             left: 0;
-            top: 50%;
+            top: 65%;
             width: 100%;
             text-align: center;
             font-size: 24px;
@@ -51,6 +51,10 @@
         <button onclick="openGetQuestion()" class="button"> Four Corners Exercise
         </button>
     </div>
+      <div class="center2">
+       <button onclick="openHelp()" class="button"> Directions
+       </button>
+    </div>
 
 
   
@@ -59,7 +63,7 @@
         var fromstring = [
             new Question("Sibling Order", "Where do you fall in your siblings?", "1. Oldest", "2. Youngest", "3. Middle", "4. Only", "No", "notasked"),
 
-            new Question("Favorite Meal","Are you a ______________ person or...?", "1. Breakfast", "2. Lunch", "3. Dinner", "4. Snacks", "No", "notasked"),    
+            new Question("Favorite Meal","Are you a _________ person or...?", "1. Breakfast", "2. Lunch", "3. Dinner", "4. Snacks", "No", "notasked"),    
 
             new Question("Flavor Right Now","What flavor are you in the mood for right now?", "1. Sweet", "2. Sour", "3. Spicy", "4. Savory", "No", "notasked"), 
 
@@ -67,7 +71,7 @@
 
             new Question("Number of Languages","How many languages do you speak?", "1. One", "2. Two", "3. Three", "4. Four or more", "No", "notasked"),
 
-            new Question("Lateness Habits","Are you a ______________ person or...?", "1. On-time", "2. Early", "3. Late", "4. None", "No", "notasked"),
+            new Question("Lateness Habits","Are you a _________ person or...?", "1. On-time", "2. Early", "3. Late", "4. None", "No", "notasked"),
 
             new Question("Age","What are our ages?", "1. Under 30s", "2. 30s", "3. 40s", "4. 50s or older", "No", "notasked"),
 
@@ -106,10 +110,9 @@
         function openHelp() {
             window.open("Help.html", "_self");
         }
-        //  <div class="center2">
-       //<button onclick="openHelp()" class="button"> Settings
-      //  </button>
-    //</div>
+
+
+       
     </script>
 
 </body>
