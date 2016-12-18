@@ -17,4 +17,5 @@ website = "https://patrickquah.carbonmade.com/"
 
 +++
 
-turn-based tabletop strategy game
+<img class="project-image" src="/images/Ascension_Instructions1.png">
+<img class="project-image" src="/images/Ascension_Instructions2.png">
