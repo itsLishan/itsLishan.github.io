@@ -26,7 +26,7 @@ Through this experiment, we sought to spark conversation about gender in the onl
 
 ### Results
 
-As this was a guerilla project, we anticipated getting shut down at any moment. In the short time that the experiment stayed up (as short as 30 minutes in some bathrooms), we generated a high level of engagement. More photos of results coming soon :)
+As this was a guerilla project, we anticipated getting shut down at any moment. In the short time that the experiment stayed up (as short as 30 minutes in some bathrooms), we generated level of engagement achieved. More photos of results coming soon :)
 
 
 **Note: dry-erase marker wipes cleanly from mirrors, and we were prepared to clean up the mess ourselves so as to not put more work on any cleaning staff**

@@ -9,11 +9,71 @@ video = "Vh7VYZFILSo"
 isyoutube = true
 weight = 1
 
-[[collaborator]]
-name = "Chao Chen"
+[[role]]
+	name = "Game Designer, Director, Editor"
 
-[[collaborator]]
-name = "Alex Heinrich"
+	[[role.collaborator]]
+	name = "Lishan AZ"
+	website = "http://itslishan.com"
+
+[[role]]
+	name = "Game Designer, Editor"
+
+	[[role.collaborator]]
+	name = "Chao Chen"
+
+[[role]]
+	name = "Composer"
+
+	[[role.collaborator]]
+	name = "Alex Heinrich"
+	website = "https://soundcloud.com/alexrheinrich"
+
+[[role]]
+	name = "Other Contributing Artists"
+
+	[[role.collaborator]]
+	name = "WRDÖ"
+
+	[[role.collaborator]]
+	name = "Jinghui Dong"
+
+	[[role.collaborator]]
+	name = "Patrick Quah"
+	website = "https://patrickquah.carbonmade.com/"
+
+[[role]]
+	name = "Film Crew"
+
+	[[role.collaborator]]
+	name = "Christopher Ortega"
+
+	[[role.collaborator]]
+	name = "Jheanelle Brown"
+
+	[[role.collaborator]]
+	name = "Olivia Taylor-Butler"
+
+	[[role.collaborator]]
+	name = "Jazmine Hill"
+
+	[[role.collaborator]]
+	name = "Kelley Kali"
+
+[[role]]
+	name = "Film Cast"
+
+	[[role.collaborator]]
+	name = "Cherita Armstrong"
+
+	[[role.collaborator]]
+	name = "Alexis Snell"
+
+	[[role.collaborator]]
+	name = "Gregory Kennedy"
+
+	[[role.collaborator]]
+	name = "Robert Streit"
 
 +++
 

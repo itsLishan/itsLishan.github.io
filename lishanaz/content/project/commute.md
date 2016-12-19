@@ -40,4 +40,4 @@ The Commute is a power fantasy game about street harassment. Built around true-t
 
 You play as Amber, who just wants to wear her clothes of choice and get to the metro with her emotional health intact. Help her dodge catcallers and their harmful words, and fight back when things get out of hand.
 
-All catcalls in this game are based on true stories, obtained by polling friends about their everyday experiences with street harassment.
+All catcalls in this game are based on true stories, obtained by polling women in our network about their everyday experiences with street harassment.
