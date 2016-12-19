@@ -6,6 +6,9 @@ title = "Bernie + Bernice"
 image = "/images/Bernice.jpg"
 headerimage = "/images/Bernice_play.gif"
 weight = 2
+video = "/videos/bernieDemo/Bernie"
+isyoutube = false
+isnativevideo = true
 
 [[collaborator]]
 name = "Laura Cechanowicz"

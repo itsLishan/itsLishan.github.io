@@ -7,6 +7,7 @@ image = "/images/IMAGENAME.JPG"
 headerimage = "/images/IMAGENAME.JPG"
 video = "link to video"
 isyoutube = true
+isnativevideo = false
 projectsite = "project site"
 weight = 0
 
