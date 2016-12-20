@@ -2,8 +2,7 @@
 date = "2016-02-28"
 preview = "story-driven audio tour for The Getty"
 title = "Her Parlour"
-image = "/images/HerParlour.png"
-headerimage = "/images/HerParlour.png"
+image = "/images/HerParlour_thumb.png"
 video = "https://player.vimeo.com/video/158183212"
 projectsite = "project site"
 weight = 10

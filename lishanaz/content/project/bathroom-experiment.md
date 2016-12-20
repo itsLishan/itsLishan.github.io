@@ -3,8 +3,8 @@ date = "2016-02-24"
 preview = "public forum in an awkward place"
 tags = ["x", "y"]
 title = "Bathroom Experiment"
-image = "/images/BEThumbnail.JPG"
-headerimage = "/images/BEResultsWomen.JPG"
+image = "/images/BathExper_thumb.png"
+headerimage = "/images/BEResultsWomen.png"
 weight = 10
 
 [[collaborator]]
