@@ -3,7 +3,7 @@ date = "2016-02-24"
 preview = "public forum in an awkward place"
 tags = ["x", "y"]
 title = "Bathroom Experiment"
-image = "/images/BathExper_thumb.png"
+image = "/images/BathExper_thumb.jpg"
 headerimage = "/images/BEResultsWomen.png"
 weight = 10
 

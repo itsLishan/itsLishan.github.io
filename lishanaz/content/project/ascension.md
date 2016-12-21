@@ -3,7 +3,7 @@ date = "2014-09-02"
 preview = "turn-based tabletop strategy game"
 tags = ["x", "y"]
 title = "Ascension"
-image = "images/Ascension_thumb.png"
+image = "images/Ascension_thumb.jpg"
 headerimage = "/images/Ascension_play.jpg"
 weight = 5
 

@@ -2,7 +2,7 @@
 date = "2015-12-21"
 preview = "interactive mixed reality installation"
 title = "The Locker"
-image = "/images/Locker_thumb.png"
+image = "/images/Locker_thumb.jpg"
 headerImage = "/images/LockerWide.jpg"
 projectsite = "http://playthelocker.com/"
 video = "Vh7VYZFILSo"
