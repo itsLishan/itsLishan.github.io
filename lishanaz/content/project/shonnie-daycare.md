@@ -5,7 +5,7 @@ tags = ["x", "y"]
 title = "Shonnie's Daycare Quest"
 image = "/images/Shonnie_thumb.jpg"
 projectsite = "/daycare-quest/"
-headerimage = "/images/ShonnyWide.png"
+headerimage = "/images/Shonnie_JobOrAssistance.jpg"
 weight = 6
 
 [[collaborator]]

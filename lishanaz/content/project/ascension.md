@@ -17,5 +17,5 @@ website = "https://patrickquah.carbonmade.com/"
 
 +++
 
-<img class="project-image" src="/images/Ascension_Instructions1.png">
-<img class="project-image" src="/images/Ascension_Instructions2.png">
+<img class="project-image" src="/images/Ascension_Instructions1.jpg">
+<img class="project-image" src="/images/Ascension_Instructions2.jpg">

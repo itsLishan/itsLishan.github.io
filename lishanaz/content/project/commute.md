@@ -4,7 +4,7 @@ preview = "power fantasy game about retaliating against street harassment"
 tags = ["x", "y"]
 title = "The Commute"
 image = "/images/Commute_thumb.jpg"
-headerimage = "/images/CommuteHeader.png"
+headerimage = "/images/CommuteHeader.jpg"
 weight = 2
 
 [[role]]

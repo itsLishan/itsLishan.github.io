@@ -4,7 +4,7 @@ preview = "public forum in an awkward place"
 tags = ["x", "y"]
 title = "Bathroom Experiment"
 image = "/images/BathExper_thumb.jpg"
-headerimage = "/images/BEResultsWomen.png"
+headerimage = "/images/BathExper_ResultsWomen.jpg"
 weight = 10
 
 [[collaborator]]
@@ -20,8 +20,8 @@ The Bathroom Experiment was an interactive intervention performed in USC's Schoo
 Through this experiment, we sought to spark conversation about gender in the only gender-segregated space we occupy daily: public restrooms. We asked unsuspecting participants, "Why did you choose the women's/men's bathroom today?"--a decision many folks make daily without thinking, while for others it can be a source of trauma.
 
 <div>
-<img class="splitImage" src="/images/BEQuestionWomen.jpg">
-<img class="splitImage" src="/images/BESetup.png">
+<img class="splitImage" src="/images/BathExper_QuestionWomen.jpg">
+<img class="splitImage" src="/images/BathExper_Setup.jpg">
 </div>
 
 ### Results
