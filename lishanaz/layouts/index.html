@@ -12,21 +12,23 @@
 
     <article>
 
-        {{ range .Data.Pages }} 
-          <a class="project" href="{{ .Permalink }}">
-            <!-- <span class="overlay">
-              <span class="overlay-text">
-                <p>{{ .Date.Format "January 2006" }}</p>
+        {{ range .Data.Pages }}
+          {{ if .Params.isportfolio }} 
+            <a class="project" href="{{ .Permalink }}">
+              <!-- <span class="overlay">
+                <span class="overlay-text">
+                  <p>{{ .Date.Format "January 2006" }}</p>
+                </span>
+              </span> -->
+              <span class="project-info">
+                <div class="thumbnail-frame">
+                  <img src="{{ .Params.image }}" class="project-image"/>
+                </div>
+                <h2>{{ .Title }}</h2>
+                <p>{{ .Params.preview }}</p>
               </span>
-            </span> -->
-            <span class="project-info">
-              <div class="thumbnail-frame">
-                <img src="{{ .Params.image }}" class="project-image"/>
-              </div>
-              <h2>{{ .Title }}</h2>
-              <p>{{ .Params.preview }}</p>
-            </span>
-          </a>
+            </a>
+          {{ end }}
         {{ end }}
    
     </article>

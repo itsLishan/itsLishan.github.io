@@ -7,6 +7,7 @@ image = "/images/BeautyH_thumb.jpg"
 video = "dAMx008xFP8"
 isyoutube = true
 weight = 99
+isportfolio = true
 
 [[collaborator]]
 name = "Kellen Patterson"

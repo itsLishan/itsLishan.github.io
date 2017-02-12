@@ -8,6 +8,7 @@ projectsite = "http://playthelocker.com/"
 video = "Vh7VYZFILSo"
 isyoutube = true
 weight = 1
+isportfolio = true
 
 [[role]]
 	name = "Game Designer, Director, Editor"

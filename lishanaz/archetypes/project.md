@@ -10,6 +10,7 @@ isyoutube = true
 isnativevideo = false
 projectsite = "project site"
 weight = 0
+isportfolio = true;
 
 [[roles]]
 	name = "Project Managers"

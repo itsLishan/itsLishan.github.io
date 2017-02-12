@@ -115,6 +115,7 @@ a.project{
 .splitImage{
   width: 50%;
   float: left;
+  margin-bottom: 1rem;
 }
 
 .project p{

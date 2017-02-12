@@ -5,6 +5,7 @@ title = "Her Parlour"
 image = "/images/HerParlour_thumb.jpg"
 video = "https://player.vimeo.com/video/158183212"
 weight = 10
+isportfolio = true
 
 [[collaborator]]
 name = "Junh-Ho Sohn"

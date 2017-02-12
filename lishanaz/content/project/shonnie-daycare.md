@@ -7,6 +7,7 @@ image = "/images/Shonnie_thumb.jpg"
 projectsite = "/daycare-quest/"
 headerimage = "/images/Shonnie_JobOrAssistance.jpg"
 weight = 6
+isportfolio = true
 
 [[collaborator]]
 name = "Liane Scott"

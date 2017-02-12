@@ -6,6 +6,7 @@ title = "Ascension"
 image = "images/Ascension_thumb.jpg"
 headerimage = "/images/Ascension_play.jpg"
 weight = 5
+isportfolio = true
 
 [[collaborator]]
 name = "Thomas Lu"

@@ -8,6 +8,7 @@ weight = 2
 video = "/videos/bernieDemo/Bernie"
 isyoutube = false
 isnativevideo = true
+isportfolio = true
 
 [[collaborator]]
 name = "Laura Cechanowicz"

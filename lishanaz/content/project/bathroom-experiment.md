@@ -6,6 +6,7 @@ title = "Bathroom Experiment"
 image = "/images/BathExper_thumb.jpg"
 headerimage = "/images/BathExper_ResultsWomen.jpg"
 weight = 10
+isportfolio = true
 
 [[collaborator]]
 name = "Sean Wejebe"

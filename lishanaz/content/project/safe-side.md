@@ -9,6 +9,7 @@ video = "rNJJLdJL71g"
 isyoutube = true
 projectsite = "https://itunes.apple.com/us/app/on-the-safe-side/id1017971398?mt=8"
 weight = 2
+isportfolio = true
 
 [[role]]
 	name = "Director"

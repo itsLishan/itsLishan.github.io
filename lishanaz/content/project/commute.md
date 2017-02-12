@@ -6,6 +6,7 @@ title = "The Commute"
 image = "/images/Commute_thumb.jpg"
 headerimage = "/images/CommuteHeader.jpg"
 weight = 2
+isportfolio = true
 
 [[role]]
 	name = "Game Design & Programming"
