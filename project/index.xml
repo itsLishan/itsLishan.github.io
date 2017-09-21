@@ -6,26 +6,16 @@
     <description>Recent content in Project-rsses on Lishan AZ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 May 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://itslishan.com/project/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Light Snatcher [documentation in progress]</title>
-      <link>http://itslishan.com/light-snatcher</link>
-      <pubDate>Thu, 21 Apr 2016 00:00:00 +0000</pubDate>
+      <title>Tracking Ida</title>
+      <link>http://itslishan.com/tracking-ida</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://itslishan.com/light-snatcher</guid>
-      <description>&lt;p&gt;Light Snatcher is a fast-paced collaborative game played on a strip of LED lights with mobile controllers. Each player (up to 6) is assigned a color and controls a small section of the strip. When the light moves through your section, tap your phone to &amp;ldquo;snatch&amp;rdquo; it. Each time the light is captured, it speeds up, making it harder to catch.&lt;/p&gt;
-
-&lt;p&gt;Light Snatcher is played on a flexible, water-proof strip of lights. Wear the strip on your body and let your friends play around you&amp;ndash;try twirling in place to up the ante. Sit at a bar and play with strangers without worrying about your drink spilling. You can bend it any way you&amp;rsquo;d like.&lt;/p&gt;
-
-&lt;div&gt;
-&lt;img class=&#34;splitImage&#34; src=&#34;http://itslishan.com/images/LightSnatch_column.JPG&#34;&gt;
-&lt;img class=&#34;splitImage&#34; src=&#34;http://itslishan.com/images/LightSnatch_wearable.JPG&#34;&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Light Snatcher was a one-week experiment in spring 2016, which we recently picked up again. More progress (and better documentation) to come!&lt;/p&gt;
-</description>
+      <guid>http://itslishan.com/tracking-ida</guid>
+      <description></description>
     </item>
     
     <item>
@@ -51,6 +41,25 @@
       
       <guid>http://itslishan.com/safe-side</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Light Snatcher</title>
+      <link>http://itslishan.com/light-snatcher</link>
+      <pubDate>Thu, 21 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://itslishan.com/light-snatcher</guid>
+      <description>&lt;p&gt;Light Snatcher is a fast-paced collaborative game played on a strip of LED lights with mobile controllers. Each player (up to 6) is assigned a color and controls a small section of the strip. When the light moves through your section, tap your phone to &amp;ldquo;snatch&amp;rdquo; it. Each time the light is captured, it speeds up, making it harder to catch.&lt;/p&gt;
+
+&lt;p&gt;Light Snatcher is played on a flexible, water-proof strip of lights. Wear the strip on your body and let your friends play around you&amp;ndash;try twirling in place to up the ante. Sit at a bar and play with strangers without worrying about your drink spilling.&lt;/p&gt;
+
+&lt;div&gt;
+&lt;img class=&#34;splitImage&#34; src=&#34;http://itslishan.com/images/LightSnatch_column.JPG&#34;&gt;
+&lt;img class=&#34;splitImage&#34; src=&#34;http://itslishan.com/images/LightSnatch_wearable.JPG&#34;&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Light Snatcher was a one-week experiment in spring 2016, which we recently picked up again. More progress (and better documentation) to come!&lt;/p&gt;
+</description>
     </item>
     
     <item>
