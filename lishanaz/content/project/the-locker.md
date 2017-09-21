@@ -1,5 +1,6 @@
 +++
 date = "2015-12-21"
+timeperiod = "Fall 2015"
 preview = "interactive mixed reality installation"
 title = "The Locker"
 image = "/images/Locker_thumb.jpg"

@@ -1,5 +1,6 @@
 +++
 date = "2016-02-24"
+timeperiod = "Spring 2016"
 preview = "public forum in an awkward place"
 tags = ["x", "y"]
 title = "Bathroom Experiment"

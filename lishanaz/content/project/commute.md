@@ -1,5 +1,6 @@
 +++
 date = "2015-05-01"
+timeperiod = "Spring 2015"
 preview = "power fantasy game about retaliating against street harassment"
 tags = ["x", "y"]
 title = "The Commute"

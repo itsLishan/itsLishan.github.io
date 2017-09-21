@@ -1,5 +1,6 @@
 +++
 date = "2014-10-02"
+timeperiod = "Fall 2014"
 preview = "interactive film about a mother jumping through hoops to obtain government assistance"
 tags = ["x", "y"]
 title = "Shonnie's Daycare Quest"

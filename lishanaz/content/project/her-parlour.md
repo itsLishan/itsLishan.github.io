@@ -1,5 +1,6 @@
 +++
 date = "2016-02-28"
+timeperiod = "Spring 2016"
 preview = "story-driven audio tour for The Getty"
 title = "Her Parlour"
 image = "/images/HerParlour_thumb.jpg"

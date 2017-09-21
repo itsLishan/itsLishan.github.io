@@ -14,20 +14,25 @@
 
         {{ range .Data.Pages }}
           {{ if .Params.isportfolio }} 
-            <a class="project" href="{{ .Permalink }}">
-              <!-- <span class="overlay">
-                <span class="overlay-text">
-                  <p>{{ .Date.Format "January 2006" }}</p>
+            {{ if isset .Params "sitefromindex" }}
+              <a class="project" href="{{ .Params.sitefromindex }}" target="_blank">
+            {{ else }}
+              <a class="project" href="{{ .Permalink }}">
+            {{ end }}
+                <!-- <span class="overlay">
+                  <span class="overlay-text">
+                    <p>{{ .Date.Format "January 2006" }}</p>
+                  </span>
+                </span> -->
+                <span class="project-info">
+                  <div class="thumbnail-frame">
+                    <img src="{{ .Params.image }}" class="project-image"/>
+                  </div>
+                  <h2>{{ .Title }}</h2>
+<!--                   <p class="small-text">{{ .Params.timeperiod }}</p> -->
+                  <p>{{ .Params.preview }}</p>
                 </span>
-              </span> -->
-              <span class="project-info">
-                <div class="thumbnail-frame">
-                  <img src="{{ .Params.image }}" class="project-image"/>
-                </div>
-                <h2>{{ .Title }}</h2>
-                <p>{{ .Params.preview }}</p>
-              </span>
-            </a>
+              </a>
           {{ end }}
         {{ end }}
    

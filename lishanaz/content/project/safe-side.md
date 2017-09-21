@@ -1,5 +1,6 @@
 +++
 date = "2016-05-01"
+timeperiod = "Spring 2016"
 preview = "educational game played by incoming USC students as part of campus orientation"
 tags = ["x", "y"]
 title = "On the Safe Side"

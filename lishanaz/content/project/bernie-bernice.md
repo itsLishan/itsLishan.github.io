@@ -1,5 +1,6 @@
 +++
 date = "2015-05-02"
+timeperiod = "Spring 2015"
 preview = "collaborative art interactive experience that gets players moving their bodies in public space"
 tags = ["x", "y"]
 title = "Bernie + Bernice"

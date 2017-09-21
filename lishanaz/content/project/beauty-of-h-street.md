@@ -1,5 +1,6 @@
 +++
 date = "2012-11-02"
+timeperiod="Fall 2012"
 preview = "documentary about gentrification on H St. NE in Washington, DC"
 tags = ["x", "y"]
 title = "Beauty of H Street"

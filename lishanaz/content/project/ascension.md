@@ -1,5 +1,6 @@
 +++
 date = "2014-09-02"
+timeperiod = "Fall 2014"
 preview = "turn-based tabletop strategy game"
 tags = ["x", "y"]
 title = "Ascension"
