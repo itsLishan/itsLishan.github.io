@@ -8,6 +8,10 @@ section{
     color:#FF0000;
 }
 
+.bigText{
+    font-size: 20px;
+}
+
 #headerBunny{
     width: 40em;
 }
