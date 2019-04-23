@@ -7,3 +7,11 @@ body {
 section{
     color:#FF0000;
 }
+
+#headerBunny{
+    width: 40em;
+}
+
+#paragraphBunny{
+    width:40em
+}
