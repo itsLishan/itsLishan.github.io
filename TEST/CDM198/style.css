@@ -13,10 +13,9 @@ section{
     font-size: 20px;
 }
 
-#headerBunny{
-    width: 40em;
+img{
+    width:40rem;
+    margin-top:2rem;
+    margin-bottom:2rem;
 }
 
-#paragraphBunny{
-    width:40em
-}
