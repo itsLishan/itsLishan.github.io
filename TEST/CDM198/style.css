@@ -9,8 +9,12 @@ section{
     color:#FF0000;
 }
 
+.nav-bar{
+    font-size: 3rem;
+}
+
 .bigText{
-    font-size: 20px;
+    font-size: 2rem;
 }
 
 img{
