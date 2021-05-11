@@ -1,173 +1,131 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Project-rsses on Lishan AZ</title>
-    <link>http://itslishan.com/project/index.xml</link>
-    <description>Recent content in Project-rsses on Lishan AZ</description>
+    <title>Projects on Lishan AZ</title>
+    <link>http://lishanaz.com/project/</link>
+    <description>Recent content in Projects on Lishan AZ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 May 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://itslishan.com/project/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Thu, 17 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://lishanaz.com/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tracking Ida</title>
-      <link>http://itslishan.com/tracking-ida</link>
+      <link>http://lishanaz.com/tracking-ida/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://itslishan.com/tracking-ida</guid>
+      <guid>http://lishanaz.com/tracking-ida/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>The Locker</title>
-      <link>http://itslishan.com/the-locker</link>
-      <pubDate>Mon, 21 Dec 2015 00:00:00 +0000</pubDate>
+      <title>Residue</title>
+      <link>http://lishanaz.com/residue/</link>
+      <pubDate>Thu, 17 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://itslishan.com/the-locker</guid>
-      <description>&lt;p&gt;&lt;a href = &#34;http://playthelocker.com/&#34; target = &#34;_blank&#34;&gt;The Locker&lt;/a&gt; is a mixed-reality installation game in which you explore physical artifacts with your hands and reveal memories using a bewitched magnifying glass.&lt;/p&gt;
-
-&lt;p&gt;You receive a note from Jade, a student at your high school who has recently gone missing, and decide to do some snooping. Inside her locker, you find diary entries to read, physical puzzles to solve, artifacts to investigate, and memories to reveal with your magnifying glass.&lt;/p&gt;
-
-&lt;p&gt;Combining physical exploration with puzzle and film, the Locker will engage quite a few of your senses for a memorable experience.&lt;/p&gt;
-
-&lt;p&gt;The project was featured in an LA times &lt;a href=&#34;http://www.latimes.com/entertainment/herocomplex/la-et-hc-usc-women-video-game-design-program-20160124-htmlstory.html&#34;&gt;article&lt;/a&gt;&lt;/p&gt;
-</description>
+      <guid>http://lishanaz.com/residue/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>On the Safe Side</title>
-      <link>http://itslishan.com/safe-side</link>
+      <link>http://lishanaz.com/safe-side/</link>
       <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://itslishan.com/safe-side</guid>
+      <guid>http://lishanaz.com/safe-side/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Light Snatcher</title>
-      <link>http://itslishan.com/light-snatcher</link>
+      <link>http://lishanaz.com/light-snatcher/</link>
       <pubDate>Thu, 21 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://itslishan.com/light-snatcher</guid>
-      <description>&lt;p&gt;Light Snatcher is a fast-paced collaborative game played on a strip of LED lights with mobile controllers. Each player (up to 6) is assigned a color and controls a small section of the strip. When the light moves through your section, tap your phone to &amp;ldquo;snatch&amp;rdquo; it. Each time the light is captured, it speeds up, making it harder to catch.&lt;/p&gt;
-
-&lt;p&gt;Light Snatcher is played on a flexible, water-proof strip of lights. Wear the strip on your body and let your friends play around you&amp;ndash;try twirling in place to up the ante. Sit at a bar and play with strangers without worrying about your drink spilling.&lt;/p&gt;
-
-&lt;div&gt;
-&lt;img class=&#34;splitImage&#34; src=&#34;http://itslishan.com/images/LightSnatch_column.JPG&#34;&gt;
-&lt;img class=&#34;splitImage&#34; src=&#34;http://itslishan.com/images/LightSnatch_wearable.JPG&#34;&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Light Snatcher was a one-week experiment in spring 2016, which we recently picked up again. More progress (and better documentation) to come!&lt;/p&gt;
-</description>
+      <guid>http://lishanaz.com/light-snatcher/</guid>
+      <description>Light Snatcher is a fast-paced collaborative game played on a strip of LED lights with mobile controllers. Each player (up to 6) is assigned a color and controls a small section of the strip. When the light moves through your section, tap your phone to &amp;ldquo;snatch&amp;rdquo; it. Each time the light is captured, it speeds up, making it harder to catch.
+Light Snatcher is played on a flexible, water-proof strip of lights.</description>
+    </item>
+    
+    <item>
+      <title>Downtown Browns</title>
+      <link>http://lishanaz.com/downtown-browns/</link>
+      <pubDate>Tue, 02 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://lishanaz.com/downtown-browns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Locker</title>
+      <link>http://lishanaz.com/the-locker/</link>
+      <pubDate>Mon, 21 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://lishanaz.com/the-locker/</guid>
+      <description>The Lockeris a mixed-reality installation game in which you explore physical artifacts with your hands and reveal memories using a bewitched magnifying glass.
+You receive a note from Jade, a student at your high school who has recently gone missing, and decide to do some snooping. Inside her locker, you find diary entries to read, physical puzzles to solve, artifacts to investigate, and memories to reveal with your magnifying glass.</description>
     </item>
     
     <item>
       <title>Bernie &#43; Bernice</title>
-      <link>http://itslishan.com/bernie-bernice</link>
+      <link>http://lishanaz.com/bernie-bernice/</link>
       <pubDate>Sat, 02 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://itslishan.com/bernie-bernice</guid>
-      <description>&lt;p&gt;Bernie + Bernice is a 1- or 2-person interactive experience that is intended for lobbies and other passive public spaces. During gameplay, players move their bodies to control a particle system displayed on a large screen in front of them. Particles leave a trace of their recent movement, allowing players to create ephemeral particle art as they move. One player alone can control the system to satisfaction, but a second player introduces a new strong force that allows them to manipulate the system together.&lt;/p&gt;
-
-&lt;p&gt;The experience is “always on.” A spherical particle system sits in the middle of the screen, pulsing such that it almost seems to breathe, waiting to be played with. An unknowing passerby causes the particles to move with them, and begins to play without even realizing. If the passerby chooses to try out different body movements (such as opening their hands wide), they will discover new ways to play. My intention was to make the experience as approachable as possible, such that someone might discover play through their everyday movements, and if they choose, engage further through exploration.&lt;/p&gt;
-
-&lt;p&gt;The objective of this project was to get people to move their bodies in public space, to disrupt both their daily routine and the formality of behavior in public space.&lt;/p&gt;
-
-&lt;p&gt;The piece was on display at the iMappening Showcase in 2014, and has been on display at various points in time in the lobby of the School of Cinematic Arts at USC.&lt;/p&gt;
-</description>
+      <guid>http://lishanaz.com/bernie-bernice/</guid>
+      <description>Bernie + Bernice is a 1- or 2-person interactive experience that is intended for lobbies and other passive public spaces. During gameplay, players move their bodies to control a particle system displayed on a large screen in front of them. Particles leave a trace of their recent movement, allowing players to create ephemeral particle art as they move. One player alone can control the system to satisfaction, but a second player introduces a new strong force that allows them to manipulate the system together.</description>
     </item>
     
     <item>
       <title>The Commute</title>
-      <link>http://itslishan.com/commute</link>
+      <link>http://lishanaz.com/commute/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://itslishan.com/commute</guid>
-      <description>&lt;p&gt;The Commute is a power fantasy game about street harassment. Built around true-to-life experiences of catcalling, the game highlights the destructive nature of street harassment while inviting players to choose how to “deal with it.”&lt;/p&gt;
-
-&lt;p&gt;You play as Amber, who just wants to wear her clothes of choice and get to the metro with her emotional health intact. Help her dodge catcallers and their harmful words, and fight back when things get out of hand.&lt;/p&gt;
-
-&lt;p&gt;All catcalls in this game are based on true stories, obtained by polling women in our network about their everyday experiences with street harassment.&lt;/p&gt;
-</description>
+      <guid>http://lishanaz.com/commute/</guid>
+      <description>The Commute is a power fantasy game about street harassment. Built around true-to-life experiences of catcalling, the game highlights the destructive nature of street harassment while inviting players to choose how to “deal with it.”
+You play as Amber, who just wants to wear her clothes of choice and get to the metro with her emotional health intact. Help her dodge catcallers and their harmful words, and fight back when things get out of hand.</description>
     </item>
     
     <item>
       <title>Ascension</title>
-      <link>http://itslishan.com/ascension</link>
+      <link>http://lishanaz.com/ascension/</link>
       <pubDate>Tue, 02 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://itslishan.com/ascension</guid>
-      <description>&lt;p&gt;&lt;img class=&#34;project-image&#34; src=&#34;http://itslishan.com/images/Ascension_Instructions1.jpg&#34;&gt;
-&lt;img class=&#34;project-image&#34; src=&#34;http://itslishan.com/images/Ascension_Instructions2.jpg&#34;&gt;&lt;/p&gt;
-</description>
+      <guid>http://lishanaz.com/ascension/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Shonnie&#39;s Daycare Quest</title>
-      <link>http://itslishan.com/shonnie-daycare</link>
+      <link>http://lishanaz.com/shonnie-daycare/</link>
       <pubDate>Thu, 02 Oct 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://itslishan.com/shonnie-daycare</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://itslishan.com/daycare-quest&#34; target=&#34;_blank&#34;&gt;Shonnie&amp;rsquo;s Daycare Quest&lt;/a&gt; is an interactive animated film about a mother trying to obtain subsidized childcare for her daughter in Washington, DC. The player makes decisions for Shonnie as she jumps through bureaucratic hoops, trying to succeed before Shonnie gets fired for missing too many days of work. This story is based on the testimony of real women in Washington, DC, archived through the advocacy work of Empower DC and Grassroots DC. The illustrations were drawn by the children of the mothers who offered their testimony.&lt;/p&gt;
-
-&lt;p&gt;Play it &lt;a href=&#34;http://itslishan.com/daycare-quest&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;!&lt;/p&gt;
-</description>
+      <guid>http://lishanaz.com/shonnie-daycare/</guid>
+      <description>Shonnie&amp;rsquo;s Daycare Questis an interactive animated film about a mother trying to obtain subsidized childcare for her daughter in Washington, DC. The player makes decisions for Shonnie as she jumps through bureaucratic hoops, trying to succeed before Shonnie gets fired for missing too many days of work. This story is based on the testimony of real women in Washington, DC, archived through the advocacy work of Empower DC and Grassroots DC.</description>
     </item>
     
     <item>
       <title>Her Parlour</title>
-      <link>http://itslishan.com/her-parlour</link>
+      <link>http://lishanaz.com/her-parlour/</link>
       <pubDate>Sun, 28 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://itslishan.com/her-parlour</guid>
-      <description>&lt;p&gt;Her Parlour is a new style of museum audio tour that challenges visitors to find art pieces as they progress through a story. Designed for the Home Décor exhibit of The Getty, Her Parlour transforms the exhibit into the estate of Adrienne, a middle-aged wife in 18th century France who is trying to fix her failing marriage. Convinced she can rekindle the love of her husband by reminding him of their newlywed days, she searches for the artifacts that will bring back his first memories of her. Players find the items she seeks, enter answers into the mobile app, and get deeper into the story of their marriage and French noble society of that time period.&lt;/p&gt;
-
-&lt;p&gt;Her Parlour was developed during a 27 hour game jam hosted by The Getty Center in 2016. Our challenge was to create an experience that helps players discover something interesting about the art they might have missed in a quick look.&lt;/p&gt;
-
-&lt;p&gt;Her Parlour won 3rd place in the competition, judged by a panel of Jenova Chen, founder of ThatGameCompany; Stephanie Barish, CEO of IndieCade; Richard Lemarchand, USC IMGD associate chair; and Jack Ludden, head of web and new media development at the Getty.&lt;/p&gt;
-
-&lt;p&gt;See The Getty&amp;rsquo;s blog post about the jam &lt;a href = &#34;http://blogs.getty.edu/iris/a-night-at-the-museum-the-2016-gettyusc-game-jam/&#34; target = &#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <guid>http://lishanaz.com/her-parlour/</guid>
+      <description>Her Parlour is a new style of museum audio tour that challenges visitors to find art pieces as they progress through a story. Designed for the Home Décor exhibit of The Getty, Her Parlour transforms the exhibit into the estate of Adrienne, a middle-aged wife in 18th century France who is trying to fix her failing marriage. Convinced she can rekindle the love of her husband by reminding him of their newlywed days, she searches for the artifacts that will bring back his first memories of her.</description>
     </item>
     
     <item>
       <title>Bathroom Experiment</title>
-      <link>http://itslishan.com/bathroom-experiment</link>
+      <link>http://lishanaz.com/bathroom-experiment/</link>
       <pubDate>Wed, 24 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://itslishan.com/bathroom-experiment</guid>
-      <description>
-
-&lt;p&gt;The Bathroom Experiment was an interactive intervention performed in USC&amp;rsquo;s School of Cinematic Arts (SCA). We performed the experiment in 14 men&amp;rsquo;s and women&amp;rsquo;s bathrooms (12 in SCA, 2 in a dining hall) by writing a question in dry-erase marker on the  bathroom mirror, and leaving a marker tethered to the sink for future bathroom visitors to use. We deliberately chose the private space of bathrooms to stage this public conversation. This had particular significance in the pristine buildings of SCA, where any modification to the space is highly discouraged.&lt;/p&gt;
-
-&lt;h3 id=&#34;gender-question-in-a-gendered-space&#34;&gt;Gender Question in a Gendered Space&lt;/h3&gt;
-
-&lt;p&gt;Through this experiment, we sought to spark conversation about gender in the only gender-segregated space we occupy daily: public restrooms. We asked unsuspecting participants, &amp;ldquo;Why did you choose the women&amp;rsquo;s/men&amp;rsquo;s bathroom today?&amp;rdquo;&amp;ndash;a decision many folks make daily without thinking, while for others it can be a source of trauma.&lt;/p&gt;
-
-&lt;div&gt;
-&lt;img class=&#34;splitImage&#34; src=&#34;http://itslishan.com/images/BathExper_QuestionWomen.jpg&#34;&gt;
-&lt;img class=&#34;splitImage&#34; src=&#34;http://itslishan.com/images/BathExper_Setup.jpg&#34;&gt;
-&lt;/div&gt;
-
-&lt;h3 id=&#34;results&#34;&gt;Results&lt;/h3&gt;
-
-&lt;p&gt;As this was a guerilla project, we anticipated getting shut down at any moment. In the short time that the experiment stayed up (as short as 30 minutes in some bathrooms), we generated a high level of engagement. More photos of results coming soon :)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Note: dry-erase marker wipes cleanly from mirrors, and we were prepared to clean up the mess ourselves so as to not put more work on any cleaning staff&lt;/strong&gt;&lt;/p&gt;
-</description>
+      <guid>http://lishanaz.com/bathroom-experiment/</guid>
+      <description>The Bathroom Experiment was an interactive intervention performed in USC&amp;rsquo;s School of Cinematic Arts (SCA). We performed the experiment in 14 men&amp;rsquo;s and women&amp;rsquo;s bathrooms (12 in SCA, 2 in a dining hall) by writing a question in dry-erase marker on the bathroom mirror, and leaving a marker tethered to the sink for future bathroom visitors to use. We deliberately chose the private space of bathrooms to stage this public conversation.</description>
     </item>
     
     <item>
       <title>Beauty of H Street</title>
-      <link>http://itslishan.com/beauty-of-h-street</link>
+      <link>http://lishanaz.com/beauty-of-h-street/</link>
       <pubDate>Fri, 02 Nov 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://itslishan.com/beauty-of-h-street</guid>
-      <description>&lt;p&gt;&amp;ldquo;Beauty of H Street&amp;rdquo; examines the history of H Street Northeast, once a hub of African American barber shops and salons. The documentary follows the neighborhood from the ‘60s riots to destitution to its current state as one of the fastest gentrifying neighborhoods in Washington, DC. It features interviews from barbershop owners who were there from the &amp;lsquo;60s until now, and spoken word from DC youth.&lt;/p&gt;
-
-&lt;p&gt;We won a grant from The Humanities Council to complete this project.&lt;/p&gt;
-</description>
+      <guid>http://lishanaz.com/beauty-of-h-street/</guid>
+      <description>&amp;ldquo;Beauty of H Street&amp;rdquo; examines the history of H Street Northeast, once a hub of African American barber shops and salons. The documentary follows the neighborhood from the ‘60s riots to destitution to its current state as one of the fastest gentrifying neighborhoods in Washington, DC. It features interviews from barbershop owners who were there from the &amp;rsquo;60s until now, and spoken word from DC youth.
+We won a grant from The Humanities Council to complete this project.</description>
     </item>
     
   </channel>

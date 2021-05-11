@@ -8,7 +8,7 @@ headerImage = "/images/LockerWide.jpg"
 projectsite = "http://playthelocker.com/"
 video = "Vh7VYZFILSo"
 isyoutube = true
-weight = 1
+weight = 2
 isportfolio = true
 
 [[role]]

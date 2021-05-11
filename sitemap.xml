@@ -1,64 +1,99 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://itslishan.com/</loc>
+    <loc>http://lishanaz.com/tracking-ida/</loc>
     <lastmod>2017-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://itslishan.com/tracking-ida</loc>
-    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+    <loc>http://lishanaz.com/residue/</loc>
+    <lastmod>2020-09-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://itslishan.com/the-locker</loc>
-    <lastmod>2015-12-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://itslishan.com/safe-side</loc>
+    <loc>http://lishanaz.com/safe-side/</loc>
     <lastmod>2016-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://itslishan.com/light-snatcher</loc>
+    <loc>http://lishanaz.com/light-snatcher/</loc>
     <lastmod>2016-04-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://itslishan.com/bernie-bernice</loc>
+    <loc>http://lishanaz.com/downtown-browns/</loc>
+    <lastmod>2016-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lishanaz.com/the-locker/</loc>
+    <lastmod>2015-12-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lishanaz.com/bernie-bernice/</loc>
     <lastmod>2015-05-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://itslishan.com/commute</loc>
+    <loc>http://lishanaz.com/commute/</loc>
     <lastmod>2015-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://itslishan.com/ascension</loc>
+    <loc>http://lishanaz.com/ascension/</loc>
     <lastmod>2014-09-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://itslishan.com/shonnie-daycare</loc>
+    <loc>http://lishanaz.com/shonnie-daycare/</loc>
     <lastmod>2014-10-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://itslishan.com/her-parlour</loc>
+    <loc>http://lishanaz.com/her-parlour/</loc>
     <lastmod>2016-02-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://itslishan.com/bathroom-experiment</loc>
+    <loc>http://lishanaz.com/bathroom-experiment/</loc>
     <lastmod>2016-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://itslishan.com/beauty-of-h-street</loc>
+    <loc>http://lishanaz.com/beauty-of-h-street/</loc>
     <lastmod>2012-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lishanaz.com/</loc>
+    <lastmod>2020-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lishanaz.com/project/</loc>
+    <lastmod>2020-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lishanaz.com/tags/</loc>
+    <lastmod>2020-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lishanaz.com/tags/x/</loc>
+    <lastmod>2020-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lishanaz.com/tags/y/</loc>
+    <lastmod>2020-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lishanaz.com/categories/</loc>
   </url>
   
 </urlset>
