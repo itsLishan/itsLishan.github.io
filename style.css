@@ -198,3 +198,10 @@ p a:hover{
   font-size: smaller;
   margin-top: 0;
 }
+
+.wrapper {
+  display: grid;
+  --grid-column-count: 2;
+  grid-template-columns: repeat(2, 50%);
+  column-gap: .5em;
+}

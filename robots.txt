@@ -6,3 +6,4 @@ Disallow: /categories.html
 Disallow: /experiments_index.html
 Disallow: /interactive_index.html
 Disallow: /photography_index.html
+Disallow: /temp_images/
