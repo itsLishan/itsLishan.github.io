@@ -1,6 +1,12 @@
-baseurl = "http://lishanaz.com/"
+baseurl = "http://lishanaz.com/lishanaz/public/"
 languageCode = "en-us"
 title = "Lishan AZ"
 
 [permalinks]
+	archivedproject = "/:filename"
 	project = "/:filename"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

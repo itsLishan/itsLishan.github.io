@@ -1,16 +1,10 @@
 +++
 date = "2016-04-26T00:15:59-07:00"
 preview = "my description"
-tags = ["x", "y"]
 title = "the locker"
 image = "/images/IMAGENAME.JPG"
 headerimage = "/images/IMAGENAME.JPG"
-video = "link to video"
-isyoutube = true
-isnativevideo = false
-projectsite = "project site"
-weight = 0
-isportfolio = true;
+isportfolio = true
 
 [[roles]]
 	name = "Project Managers"

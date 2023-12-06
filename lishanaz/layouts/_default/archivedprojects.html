@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    {{ partial "head.html" . }}
+</head>
+
+<body>
+
+    <div class="fullPage">
+        {{ partial "leftnav.html" . }}
+        <div class="main-content">
+            <h2 class="project-title">Selected Past Game Projects</h2>
+            <article>
+
+                {{ range  (where .Site.Pages "Section" "archivedproject") }}
+                    {{ range  .Pages }}
+                        {{ if .Params.isportfolio }}
+                            {{ if isset .Params "sitefromindex" }}
+                                <a class="project" href="{{ .Params.sitefromindex }}" target="_blank">
+                            {{ else }}
+                                <a class="project" href="{{ .Permalink }}">
+                            {{ end }}
+                                        <!-- <span class="overlay">
+                                    <span class="overlay-text">
+                                        <p>{{ .Date.Format "January 2006" }}</p>
+                                    </span>
+                                    </span> -->
+                                    <span class="project-info">
+                                        <div class="thumbnail-frame">
+                                            <img src="{{ .Params.image }}" class="project-image" />
+                                        </div>
+                                        <h2>{{ .Title }}</h2>
+                                        <!--                   <p class="small-text">{{ .Params.timeperiod }}</p> -->
+                                        <p>{{ .Params.preview }}</p>
+                                    </span>
+                                </a>
+                            {{ end }}
+                    {{ end }}
+                {{ end }}
+
+            </article>
+        </div>
+    </div>
+
+</body>
+
+</html>
