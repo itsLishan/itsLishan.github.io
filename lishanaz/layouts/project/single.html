@@ -34,9 +34,9 @@
 
       <!-- Title -->
       {{ if isset .Params "projectsite" }}
-        <h2 class="projectTitle"><a class = "red-link" href = "{{ .Params.projectsite }}" target="_blank">{{ .Title }}</a></h2>
+        <h2 class="project-title"><a class = "red-link" href = "{{ .Params.projectsite }}" target="_blank">{{ .Title }}</a></h2>
       {{ else }}
-        <h2 class="projectTitle">{{ .Title }}</h2>
+        <h2 class="project-title">{{ .Title }}</h2>
       {{end}}
       <p class="small-text">{{ .Params.timeperiod }}</p>
 
