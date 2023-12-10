@@ -25,7 +25,7 @@ Selected Festivals and Exhibits:
 <ul>
 <li>2019 SAAM Arcade @ Smithsonian American Art Museum in Washington, DC</li>
 <li>2017 Finalist Exhibit @ Independent Games Festival (Indiecade) in Los Angeles, CA</li>
-<li>2019 Arcade @ Museums and the Web (MuseWeb) in Boston, MA</li>
+<li>2019 Arcade @ Museums and the Web in Boston, MA</li>
 <li>2017 Finalist Exhibit @ Games for Change in New York, NY</li>
 <li>2017 Group Exhibition @ Tokyo University of the Arts Museum in Tokyo Japan</li>
 <li>2017 Electronic Entertainmetn Expo (E3) in Los Angeles, CA</li>
@@ -56,4 +56,4 @@ Collaborators:
 <img class="project-image" src="/images/TrackingIdaCollaboration.jpg">
 <img class="project-image" src="/images/TrackingIdaPuzzle.jpg">
 <img class="project-image" src="/images/TrackingIdaDiscussing.jpg">
-See selected past game projects <a href="/archivedprojects/">here</a>.
+<p>See selected past game projects <a href="/archivedprojects/">here</a>.</p>

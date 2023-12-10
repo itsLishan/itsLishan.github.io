@@ -12,7 +12,7 @@ isportfolio = true
   –Zora Neale Hurston, Their Eyes Were Watching God
 
 <div class="separate-note">
-Solo Exhibition at Antenna Gallery in New Orleans, LA
+Solo Exhibition at Antenna Gallery in New Orleans, LA<BR>
 On View: July 9 - August 7, 2022
 </div>
 
