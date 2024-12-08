@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Lishan AZ</title>
+    <link>https://lishanaz.com/tags/</link>
+    <description>Recent content in Tags on Lishan AZ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://lishanaz.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>x</title>
+      <link>https://lishanaz.com/tags/x/</link>
+      <pubDate>Thu, 17 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://lishanaz.com/tags/x/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>y</title>
+      <link>https://lishanaz.com/tags/y/</link>
+      <pubDate>Thu, 17 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://lishanaz.com/tags/y/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
