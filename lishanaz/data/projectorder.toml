@@ -1,0 +1,14 @@
+[[projects]]
+title="Eugene's Cove"
+page="eugenes-cove-exhibit"
+subprojects=[{page="eugenes-cove-book", title="Photography Book"},{page="eugenes-cove-exhibit", title="Exhibit"}]
+
+[[projects]]
+title="Staring at the Dark"
+page="staring-at-the-dark"
+subprojects=[]
+
+[[projects]]
+title="Tracking Ida"
+page="tracking-ida"
+subprojects=[]

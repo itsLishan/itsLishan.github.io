@@ -1,26 +1,52 @@
 <div class="left-nav">
     <h1><a class="red-link" href="/index.html">Lishan AZ</a></h1>
     <ul class="project-list">
-        {{ $currentPage := .  }}
-        {{ range  (where .Site.Pages "Section" "project") }}
-                        {{ range  .Pages }}
-                            {{ if .Params.isportfolio }}
-                                <li>
-                                <a class="nav-item {{- if (eq . $currentPage) }} nav-item-selected {{- end -}}" href="{{ .Permalink }}">
-                                    {{- .Title -}}
-                                </a>
-                                </li>
-                            {{ end }}
-                        {{ end }}
+        {{ $currentPage := . }}
+        {{ range $.Site.Data.projectorder.projects }}
+        <li>
+            {{ $project := . }}
+
+            {{ $is_subproject_selected := false }}
+            {{ range .subprojects }}
+            {{ with $.Site.GetPage .page }}
+            {{ if (eq . $currentPage) }}
+            {{ $is_subproject_selected = true }}
+            {{ end }}
+            {{ end }}
+            {{ end }}
+
+            {{ with $.Site.GetPage $project.page }}
+            <a class='nav-item {{- if (or (eq . $currentPage) $is_subproject_selected) }} nav-item-selected {{- end -}}'
+                href="{{ .Permalink }}">
+                {{- $project.title -}}
+            </a>
+            {{ end }}
+
+            {{ if .subprojects }}
+            <ul class="subproject-list">
+                {{ range .subprojects }}
+                {{ $subproject := . }}
+                {{ with $.Site.GetPage $subproject.page }}
+                <li>
+                    <a class="nav-item {{- if (eq . $currentPage) }} nav-item-selected {{- end -}}"
+                        href="{{ .Permalink }}"> {{- $subproject.title -}}</a>
+                </li>
+                {{ end }}
+                {{ end }}
+            </ul>
+            {{ end }}
+        </li>
         {{ end }}
     </ul>
 
     <ul>
-      {{ with .GetPage "/about.md" }}
-        <li><a class="nav-item {{- if (eq . $currentPage) }} nav-item-selected {{- end -}}" href="{{ .Permalink }}">About</a></li>
-      {{ end }}
-      {{ with .GetPage "/contact.md" }}
-      <li><a class="nav-item {{- if (eq . $currentPage) }} nav-item-selected {{- end -}}" href="{{ .Permalink }}">Contact</a></li>
-      {{ end }}
+        {{ with .GetPage "/about.md" }}
+        <li><a class="nav-item {{- if (eq . $currentPage) }} nav-item-selected {{- end -}}"
+                href="{{ .Permalink }}">About</a></li>
+        {{ end }}
+        {{ with .GetPage "/contact.md" }}
+        <li><a class="nav-item {{- if (eq . $currentPage) }} nav-item-selected {{- end -}}"
+                href="{{ .Permalink }}">Contact</a></li>
+        {{ end }}
     </ul>
 </div>

@@ -205,6 +205,10 @@ a.red-link{
   padding-bottom: 10px;
 }
 
+.subproject-list{
+  margin-inline-start: 1rem;
+}
+
 .nav-item{
   padding-bottom: 10px;
   color: gray;
@@ -246,7 +250,24 @@ a.red-link{
   padding-top: 1rem;
 }
 
+.project-subtitle{
+    padding-top: 0rem;
+    padding-top: 0rem;
+    margin-top: -.5rem;
+    font-style: italic;
+}
 
+.unformatted-list ul{
+    list-style-type: none;
+    margin-top: 0rem;
+}
+.unformatted-list p{
+    margin-bottom: 0rem;
+}
+
+.unspaced-text p{
+    margin-top: 0rem;
+}
 
 a.red-link:hover{
   color: rgba(196, 18, 18, 1);
@@ -282,7 +303,7 @@ p a:hover{
 }
 
 .separate-note{
-  margin-top: 3rem;
+  margin-top: 2rem;
   margin-bottom: 2rem;
 }
 

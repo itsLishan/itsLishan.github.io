@@ -1,6 +1,7 @@
 +++
 date = "2023-11-14T00:15:59-07:00"
 title = "Eugene's Cove"
+subtitle = "Exhibition"
 image = "/images/IMAGENAME.JPG"
 headerimage = "/images/EugenesCove_WhatLiesBeyond.jpg"
 isportfolio = true
@@ -15,19 +16,19 @@ Solo Exhibition at the Museum of African Diaspora in San Francisco, CA
 
 <h3>Special thanks to:</h3>
 
-Marcela Ad??? Okeke and Stephen Hamilton, for writing poetry in response to this series and for granting me permission to exhibit their poems alongside the images
+Marcela Adeze Okeke and Stephen Hamilton, for writing poetry in response to this series (printed on the walls of the exhibit)
 
-Nnaemeka Ekwelum, co-editor of the recently published volume from which the poems on the wall are excerpted
+Nnaemeka Ekwelum, co-editor of the recently published <a href="/eugenes-cove-book/">book</a> from which the poems on the wall are excerpted
+<div class="unformatted-list">
 
 The crew members who assisted during photography and video shoots:
-<ul>
-    <li>Brianna Mottey</li>
-    <li>Devin Itima</li>
-    <li>Johnaé Strong</li>
-    <li>Gyzelle Garcia
-</ul>
-</div>
+- Brianna Mottey
+- Johnaé Strong
+- Gyzelle Garcia
+- Devin Itima
 
+(See info on the book <a href="/eugenes-cove-book/">here</a>)
+</div></div>
 
 <img class="project-image" src="/images/EugenesCove_Entrance.jpg">
 <img class="project-image" src="/images/EugenesCove_Metamorphosis+MamaJo.jpg">
