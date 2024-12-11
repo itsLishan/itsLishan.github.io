@@ -30,6 +30,8 @@ The crew members who assisted during photography and video shoots:
 (See info on the book <a href="/eugenes-cove-book/">here</a>)
 </div></div>
 
+<div class="inline-video-wrapper"><video class="project-video" width=100% src="/videos/EugenesCove_SweetEugene_Sample.mov" type="video/mov" preload autoplay loop muted></video></div>
+<p class="caption">(excerpt of the 9 min. video <em>Sweet Eugene</em>)</p>
 <img class="project-image" src="/images/EugenesCove_Entrance.jpg">
 <img class="project-image" src="/images/EugenesCove_Metamorphosis+MamaJo.jpg">
 <img class="project-image" src="/images/EugenesCove_Astride+Mother.jpg">

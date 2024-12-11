@@ -24,7 +24,7 @@
           <iframe width="1920" height="1080" src="https://www.youtube.com/embed/{{ .Params.video }}?modestbranding=0&showinfo=0&rel=0" frameborder="0" allowfullscreen=""></iframe>
         {{ else }}
           {{ if .Params.isnativevideo }}
-            <video width="960" height="540" preload autoplay loop muted>
+            <video width="100%" preload autoplay loop muted>
               <source src="{{ .Params.video }}.mp4" type='video/mp4; codecs="avc1.42E001"' />
               <source src="{{ .Params.video }}.ogv" type='video/ogg; codecs="theora, vorbis"' />
               <source src="{{ .Params.video }}.webm" type='video/webm; codecs="vp8, vorbis"' />
